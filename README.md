@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lwollinger
-- 👀 I’m interested in studying more programmation
-- 🌱 I’m currently learning Rede can / C linguage
-- 💞️ I’m looking to collaborate on Codes
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lucas Wollinger
+- 👀 I’m interested in studying and share my projects
+- 🌱 I’m leaning C/C++/Python
+
 
 <!---
 lwollinger/lwollinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
