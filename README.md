@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Wollinger
 - 👀 I’m interested in studying and share my projects
-- 🌱 I’m leaning C/C++/Python
+- 🌱 I’m leaning C/C++/Python/MIPS
 
 
 <!---
