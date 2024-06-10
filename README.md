@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **C, C++, Python*
+  🦄 Linguagens: *C/C++/Python*
 </p>
 
 <p align="left">
