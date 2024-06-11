@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Lucas Wollinger estudante de Engenharia Eletrônica, amo programar e atualmente trabalho em um </strong> Projeto de Inovação - Soluções Facilitadoras Para Mobilidade Elétrica </strong><br> pelo polo </strong>  EMBRAPII </strong><br> que visa criar e desenvolver estações de recarga de veiculos elétricos.
+  Sou Lucas Wollinger estudante de Engenharia Eletrônica, amo programar e atualmente trabalho em um </strong> Projeto de Inovação - Soluções Facilitadoras Para Mobilidade Elétrica </strong> pelo polo </strong> EMBRAPII </strong> que visa criar e desenvolver estações de recarga de veiculos elétricos.
 </p>
 
 <p align="left">
