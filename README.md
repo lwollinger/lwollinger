@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Lucas Wollinger, estudante de Engenharia Eletrônica pelo o Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina. Apaixonado por programação e atualmente trabalhando em um <b>Projeto de Inovação - Soluções Facilitadoras Para Mobilidade Elétrica</b> pelo polo <b>EMBRAPII IFSC Florianópolis</b>, que visa criar e desenvolver estações de recarga para veiculos elétricos.
+  I'm Lucas Wollinger, an Electronic Engineering student at the Federal Institute of Education, Science and Technology of Santa Catarina (IFSC). I'm passionate about programming and currently working on an <b>Innovation Project - Facilitating Solutions for Electric Mobility</b> at the <b>EMBRAPII IFSC Florianópolis</b>, which search for to create and develop charging stations for V2G electric vehicles.
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  🦄 Linguages:
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -16,7 +16,7 @@
 
 ## 
 <p align="left">
-  💌 Contato: ⤵️
+  💌 Contact: ⤵️
 </p>
  
 <div> 
