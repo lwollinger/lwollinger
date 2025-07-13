@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm Lucas Wollinger, an Electronic Engineering student at the Federal Institute of Education, Science and Technology of Santa Catarina (IFSC). I'm passionate about programming and currently working on an <b>Innovation Project - Facilitating Solutions for Electric Mobility</b> at the <b>EMBRAPII IFSC Florianópolis</b>, which search for to create and develop charging stations for V2G electric vehicles.
+  I'm Lucas Wollinger, an <b>Electronic Engineering</b> student at the <b>Federal Institute of Education, Science and Technology of Santa Catarina (IFSC)</b>. I'm passionate about <b>firmware development</b> and currently working on an <b>Innovation Project – Facilitating Solutions for Electric Mobility</b> at <b>EMBRAPII IFSC Florianópolis</b>, which aims to create and develop <b>charging stations for V2G electric vehicles</b>.
+
+Although I am currently focused on electric mobility, my long-term aspiration is to work with <b>aircraft systems and aviation technologies</b>, contributing to the development of <b>reliable, high-performance embedded systems for aeronautical applications</b>.
 </p>
 
 <p align="left">
