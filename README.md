@@ -6,10 +6,17 @@
 Although I am currently focused on electric mobility, my long-term aspiration is to work with <b>aircraft systems and aviation technologies</b>, contributing to the development of <b>reliable, high-performance embedded systems for aeronautical applications</b>.
 </p>
 
-🦄 Linguagens: 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<p align="left">
+  🦄 Linguagens:
+</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
   
 
