@@ -48,7 +48,7 @@
 
 <p align="left">
   🔗 See all my PRs: 
-  <a href="https://github.com/pulls?q=is:pr+author:lucaswollinger" target="_blank">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Alwollinger" target="_blank">
     github.com/pulls?q=is:pr+author:lucaswollinger
   </a>
 </p>
@@ -61,9 +61,11 @@
   <a href="https://www.instagram.com/lwollinger_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
   <a href="mailto:lucasmwollinger@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/lucas-wollinger-35a97b21a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
