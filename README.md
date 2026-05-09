@@ -6,16 +6,8 @@
      align="right">
 
 <p align="left"> 
-  I'm <b>Lucas Wollinger</b>, an <b>Electronic Engineering</b> student at the 
-  <b>Federal Institute of Education, Science and Technology of Santa Catarina (IFSC)</b>.  
-  I'm passionate about <b>firmware development</b> and currently working on an 
-  <b>Innovation Project – Facilitating Solutions for Electric Mobility</b> at 
-  <b>EMBRAPII IFSC Florianópolis</b>, which aims to create and develop 
-  <b>charging stations for V2G electric vehicles</b>.
-
-  Although I am currently focused on electric mobility, my long-term aspiration is to work with 
-  <b>aircraft systems and aviation technologies</b>, contributing to the development of 
-  <b>reliable, high-performance embedded systems for aeronautical applications</b>.
+  My name is Lucas Wollinger, and I am an Electronic Engineering student at the Federal Institute of Education, Science and Technology of Santa Catarina (IFSC).
+  I am passionate about power electronics, with an emphasis on electric vehicles, energy conversion systems, and aerospace defense.
 </p>
 
 ---
